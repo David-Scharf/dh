@@ -1,3 +1,10 @@
+## Timeline ekonomika vs. životy
+
+Subjektivní výběr poučných výroků
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=19stCacPuPZ-rzL-CVRDDaqMmKVvU6ZhKO6juH8-10pg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
 ## Storyline ošetřovné
 
 Storyline vyhledávání slova ošetřovné na Googlu v korelaci se zavíráním škol
